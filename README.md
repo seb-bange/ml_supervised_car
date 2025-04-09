@@ -88,7 +88,7 @@ The **Support Vector Machine (SVM) with RBF kernel** provides the best performan
 
 ## Link to the Notebook
 
-You can access the complete project in my [Supervised-ML_Cars-shape](https://colab.research.google.com/drive/1Tpzphy-Iz6-DIkPIXkzoCup-rVywpp2u?usp=sharing).
+You can access the complete project in my [Supervised-ML-Notebook](https://colab.research.google.com/drive/1Tpzphy-Iz6-DIkPIXkzoCup-rVywpp2u?usp=sharing).
 
 ## License
 
