@@ -40,7 +40,7 @@ Through the evaluation, I found that the **Support Vector Machine (SVM) with the
 
 Based on the results, I recommend that **Prospect Auto** use the **Support Vector Machine (SVM) with the Radial Basis Function (RBF) kernel** for vehicle classification. This model demonstrated the highest performance, making it the best choice for this task.
 
-## Steps Taken in the Project
+## Steps taken in the Project
 
 1. **Data Preprocessing**:  
    - Loaded and cleaned the dataset.
