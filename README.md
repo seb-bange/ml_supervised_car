@@ -78,8 +78,6 @@ The following libraries were used in this project:
 - **numpy**: For numerical operations.
 - **matplotlib** and **seaborn**: For data visualization and exploratory analysis.
 - **scikit-learn**: For machine learning algorithms, model evaluation, and preprocessing.
-- **IPython**: For displaying the results and visualizations.
-- **pprint**: For pretty-printing data structures.
 - **time**: For measuring computation times.
 
 ## Conclusion
