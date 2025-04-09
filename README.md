@@ -67,7 +67,9 @@ Based on the results, I recommend that **Prospect Auto** use the **Support Vecto
 
 The following visualizations were created to compare the performance of different models:
 - **Heatmap**: Showcasing the key metrics for each model.
+  ![Heatmap_model_comparison](https://github.com/user-attachments/assets/baa4b51d-8fea-4828-ade8-e6c73eed7c9f)
 - **Line Plot**: Displaying the train-test ratio and performance consistency for each model.
+![Lineplot_model_performance](https://github.com/user-attachments/assets/b877eb5e-a5a2-4d92-ba9a-689c35871436)
 
 These visualizations provide a clear overview of model performance and help in making an informed decision about which model to deploy.
 
